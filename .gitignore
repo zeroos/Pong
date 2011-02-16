@@ -1,0 +1,8 @@
+# Compiled files
+*.pyc
+*.pyo
+# Backup files
+.*~
+*.swp
+#settings
+settings.py
